@@ -9,6 +9,7 @@
 import Foundation
 
 class Aviatrix {
+
     var running = false
     var author = “”
     var location = “”
